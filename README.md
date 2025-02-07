@@ -13,7 +13,7 @@ RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large 
 Here is the open-source code repository for the paper "Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation."
 
 <p align="center">
-  <img src="[image.png](https://github.com/user-attachments/assets/5174d348-9454-4500-9fef-42c656af8425)" alt="描述文本" width="300">
+  <img src="[[image.png](https://github.com/user-attachments/assets/5174d348-9454-4500-9fef-42c656af8425)](https://github-production-user-asset-6210df.s3.amazonaws.com/94847944/410743261-5174d348-9454-4500-9fef-42c656af8425.png)" alt="描述文本" width="300">
 </p>
 
 ## Abstract
