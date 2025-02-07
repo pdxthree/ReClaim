@@ -8,10 +8,12 @@ RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large 
 
 <p align="center">  
 <a href="[https://arxiv.org/pdf/2310.00746.pdf](https://arxiv.org/pdf/2407.01796)">Paper</a>; 
-<!-- <a href="https://huggingface.co/datasets/ZenMoore/RoleBench">Data</a> -->
 </p>
 
-![image](https://github.com/user-attachments/assets/5174d348-9454-4500-9fef-42c656af8425)
+<p align="center">
+  <img src="[image.png](https://github.com/user-attachments/assets/5174d348-9454-4500-9fef-42c656af8425)" alt="" width="300">
+</p>
+<!-- ![image](https://github.com/user-attachments/assets/5174d348-9454-4500-9fef-42c656af8425) -->
 Here is the open-source code repository for the paper "Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation."
 
 ## Abstract
