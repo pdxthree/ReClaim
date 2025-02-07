@@ -26,13 +26,13 @@ Retrieval-Augmented Generation (RAG) has been widely adopted to enhance Large La
 ![image](https://github.com/user-attachments/assets/88a8216f-9c26-4f54-9636-8d20a095852d)
 ![image](https://github.com/user-attachments/assets/7f4d35ac-3757-4021-973e-129defd7b13f)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ffd7b9de-053b-41ce-b010-57e2443c3081" alt="picture" width="500">
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ffd7b9de-053b-41ce-b010-57e2443c3081" alt="picture" width="500"></td>
+    <td><img src="https://github.com/user-attachments/assets/9f71326b-0a3a-42dc-b839-e61733b18692" alt="picture" width="500"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9f71326b-0a3a-42dc-b839-e61733b18692" alt="picture" width="500">
-</p>
 
 ## Citation
 
