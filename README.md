@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">  
-RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models
+Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation
 </p>
 
 <p align="center">  
