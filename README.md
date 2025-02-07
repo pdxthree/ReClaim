@@ -7,7 +7,7 @@ Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Refer
 </p>
 
 <p align="center">  
-<a href="[https://arxiv.org/pdf/2310.00746.pdf](https://arxiv.org/pdf/2407.01796)">Paper</a>; 
+<a href="https://arxiv.org/pdf/2407.01796">Paper</a>; 
 </p>
 
 Here is the open-source code repository for the paper "Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation."
