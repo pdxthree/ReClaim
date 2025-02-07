@@ -24,3 +24,15 @@ Retrieval-Augmented Generation (RAG) has been widely adopted to enhance Large La
 ![image](https://github.com/user-attachments/assets/88a8216f-9c26-4f54-9636-8d20a095852d)
 ![image](https://github.com/user-attachments/assets/7f4d35ac-3757-4021-973e-129defd7b13f)
 ![image](https://github.com/user-attachments/assets/ffd7b9de-053b-41ce-b010-57e2443c3081) ![image](https://github.com/user-attachments/assets/9f71326b-0a3a-42dc-b839-e61733b18692)
+
+## Citation
+
+Feel free to cite us if you like ReClaim.
+```bibtex
+@article{xia2024ground,
+  title={Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation},
+  author={Xia, Sirui and Wang, Xintao and Liang, Jiaqing and Zhang, Yifei and Zhou, Weikang and Deng, Jiaji and Yu, Fei and Xiao, Yanghua},
+  journal={arXiv preprint arXiv:2407.01796},
+  year={2024}
+}
+```
