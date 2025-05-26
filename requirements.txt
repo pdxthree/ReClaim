@@ -1,0 +1,12 @@
+transformers
+torch
+argparse
+collections
+pandas
+nltk
+numpy
+rouge_score
+mauve-text
+peft
+accelerate
+bitsandbytes
