@@ -33,6 +33,9 @@ Retrieval-Augmented Generation (RAG) has been widely adopted to enhance Large La
   </tr>
 </table>
 
+### Environment
+The modules that need to be installed are listed in /requirements.txt.
+
 ### Training
 Our training data and evaluation data can be directly obtained from https://drive.google.com/drive/folders/1k03Xhw95gucJOycmrPG1eWq-vKD92hLB?usp=sharing.
 
