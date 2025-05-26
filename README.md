@@ -33,6 +33,24 @@ Retrieval-Augmented Generation (RAG) has been widely adopted to enhance Large La
   </tr>
 </table>
 
+### Training
+Our training data and evaluation data can be directly obtained from https://drive.google.com/drive/folders/1k03Xhw95gucJOycmrPG1eWq-vKD92hLB?usp=sharing.
+
+We use Llama-Factory for model training. The training configuration YAML file is located at /train.
+
+### Inference
+You can use the trained model to perform inference and generate results on the evaluation dataset. Below is an example of how to use it:
+```python
+python /generate/inference_IG.py --input_path eli5_eval_bm25_top100_reranked_oracle.json --citation_model citation_model --claim_model sft_claim --output_path eli5_result.json
+```
+
+sft refers to the trained reclaim model (ReferModel), and sft_claim refers to the trained ClaimModel.
+
+### Evaluation
+For the generated results, you can directly use the evaluation program in /evaluation to perform the assessment.
+```python
+python eval_our_format.py --f eli5_result.json --mauve --citations --claims_nli
+```
 
 ## Citation
 
